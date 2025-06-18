@@ -80,4 +80,8 @@ api_keys.txt
 channel_comments.py
 sentiment_analysis.py
 topic_analysis.py
-topic_analysis_gpt.py 
+topic_analysis_gpt.py
+
+# Jupyter notebooks (local only)
+*.ipynb
+*.ipynb_checkpoints/ 
