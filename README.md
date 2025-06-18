@@ -200,33 +200,6 @@ youtube = build('youtube', 'v3', developerKey=API_KEY)
 - [ ] Automated report generation
 - [ ] Integration with other social media platforms
 
-## 🛠️ Dependencies
-
-### Core AI Libraries
-- **transformers==4.52.4**: Hugging Face Transformers
-- **torch==2.7.1**: PyTorch deep learning framework
-- **openai==1.88.0**: OpenAI API client
-- **bertopic==0.17.0**: Topic modeling library
-- **sentence-transformers==4.1.0**: Sentence embeddings
-
-### Data Processing
-- **pandas==2.3.0**: Data manipulation
-- **numpy==2.2.6**: Numerical computing
-- **scikit-learn==1.7.0**: Machine learning utilities
-
-### Visualization
-- **streamlit==1.45.1**: Web application framework
-- **matplotlib==3.10.3**: Static plotting
-- **seaborn==0.13.2**: Statistical visualization
-- **plotly==6.1.2**: Interactive charts
-
-### Clustering & Dimensionality Reduction
-- **umap-learn==0.5.7**: UMAP for dimensionality reduction
-- **hdbscan==0.8.40**: Density-based clustering
-
-### API Integration
-- **google-api-python-client==2.172.0**: YouTube Data API
-
 ## 📝 License
 
 This project is developed for educational and research purposes.
