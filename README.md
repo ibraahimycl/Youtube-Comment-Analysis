@@ -1,5 +1,11 @@
 # 📊 YouTube Comment Analysis - AI-Powered Analytics Platform
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/1EvXgXP_BKV9lDnUOsECHEY14UGHHunI_/0.jpg)](https://drive.google.com/file/d/1EvXgXP_BKV9lDnUOsECHEY14UGHHunI_/view?usp=drive_link)
+
+> **Click the image above to watch the demo video on Google Drive.**
+
 A comprehensive YouTube comment analysis platform that combines multiple AI technologies to extract insights from YouTube comments using sentiment analysis, topic modeling, and natural language processing.
 
 ## 🚀 Features
